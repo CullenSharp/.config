@@ -1,0 +1,17 @@
+dconf
+enchant
+evolution
+gnome-session
+goa-1.0
+gtk*
+ibus
+libreoffice
+nvim.bak
+pulse
+systemd
+gnome-xdg-terminals.list
+user-dirs.locale
+user-dirs.dirs
+.gsd-keyboard.settings-ported
+xdg-terminals.list
+obsidian

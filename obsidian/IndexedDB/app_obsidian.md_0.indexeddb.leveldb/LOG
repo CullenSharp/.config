@@ -1,0 +1,12 @@
+2026/01/17-20:22:43.857 a4b4 Reusing MANIFEST /home/cullen/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/17-20:22:43.857 a4b4 Recovering log #4
+2026/01/17-20:22:43.880 a4b4 Reusing old log /home/cullen/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000004.log 
+2026/01/18-09:31:56.527 a520 Level-0 table #8: started
+2026/01/18-09:31:56.543 a520 Level-0 table #8: 1377468 bytes OK
+2026/01/18-09:31:56.546 a520 Delete type=0 #4
+2026/01/18-10:12:38.941 a51f Compacting 1@1 + 1@2 files
+2026/01/18-10:12:38.955 a51f Generated table #9@1: 1206 keys, 259021 bytes
+2026/01/18-10:12:38.955 a51f Compacted 1@1 + 1@2 files => 259021 bytes
+2026/01/18-10:12:38.958 a51f compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/18-10:12:38.958 a51f Delete type=2 #5
+2026/01/18-10:12:38.958 a51f Delete type=2 #8
